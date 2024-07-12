@@ -1,5 +1,3 @@
-Sure! Here's a README file for your `pdf_summarizer.py` project:
-
 ### README
 
 # PDF Summarizer
@@ -99,7 +97,3 @@ Below is an example of what the GUI looks like when running the script:
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-This README provides clear instructions for installing and using the `pdf_summarizer.py` application, including a screenshot of the GUI to illustrate what it looks like.
